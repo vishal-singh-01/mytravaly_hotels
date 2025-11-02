@@ -75,14 +75,18 @@ flutter pub run flutter_launcher_icons
 
 Below are the screenshots showing different parts of the app 👇
 
-<div align="center">
- 🌐 Login Screen
-<img src="screenshots/Screenshot_1.png" alt="Home Screen" width="350"/>
- 🏠 Search Page
-<img src="screenshots/Screenshot_2.png" alt="Search Page" width="350"/>
- 🔍Search Page
-<img src="screenshots/Screenshot_3.png" alt="Search Results" width="350"/>
- 📋 Search Results
-<img src="screenshots/Screenshot_4.png" alt="Hotel WebView" width="350"/> </div>
+### 🌐 Login Screen
+![Login Screen](screenshots/Screenshot_1.png)
+
+
+### 🏠 Search Page
+![Search Page](screenshots/Screenshot_2.png)
+
+### 🔍 Search Results
+![Search Results](screenshots/Screenshot_3.png)
+
+### 📋 Hotel WebView
+![Hotel WebView](screenshots/Screenshot_4.png)
+
 
 🗂️ All screenshots are stored in the /screenshots/ folder in your project root.
