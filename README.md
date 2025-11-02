@@ -50,6 +50,29 @@ lib/
 ├── models/
 └── main.dart
 
+📦 Build App Icons
+
+The second command sets your custom launcher icon.
+
+🖼️ App Screenshots
+
+Below are the screenshots showing different parts of the app:
+
+🌐 Login Screen
+
+<img width="350" alt="Screenshot_1" src="https://github.com/user-attachments/assets/cd7d4ad0-4ded-4677-9569-cb80a037fd7c" />
+
+🏠 Home Page
+
+<img width="350" alt="Screenshot_2" src="https://github.com/user-attachments/assets/239df0f9-8e00-4a4a-b37f-623d1063a9a1" />
+
+🔍 Search Page
+
+<img width="350" alt="Screenshot_3" src="https://github.com/user-attachments/assets/b4c67e16-42a8-44e8-a36d-9220ec44adeb" />
+
+📋 Search Results
+
+<img width="350" alt="Screenshot_4" src="https://github.com/user-attachments/assets/e624eeb6-1122-43ba-befe-58416a965929" />
 
 ---
 
@@ -61,7 +84,11 @@ Make sure you have:
 - Android Studio / VS Code with Flutter plugin
 
 ### 2️⃣ Install Dependencies
+
+Run the following commands in your terminal:
+
 ```bash
+
 flutter pub get
 
 📦 Build App Icons
@@ -69,24 +96,6 @@ flutter pub get
 To set the custom launcher icon:
 
 flutter pub run flutter_launcher_icons
-
-
-🖼️ App Screenshots
-
-Below are the screenshots showing different parts of the app 👇
-
-### 🌐 Login Screen
-<img width="1080" height="2424" alt="Screenshot_1" src="https://github.com/user-attachments/assets/cd7d4ad0-4ded-4677-9569-cb80a037fd7c" />
-
-### 🏠  Home Page
-<img width="1080" height="2424" alt="Screenshot_2" src="https://github.com/user-attachments/assets/239df0f9-8e00-4a4a-b37f-623d1063a9a1" />
-
-### 🔍 Search Page
-<img width="1080" height="2424" alt="Screenshot_3" src="https://github.com/user-attachments/assets/b4c67e16-42a8-44e8-a36d-9220ec44adeb" />
-
-### 📋 Search Results
-<img width="1080" height="2424" alt="Screenshot_4" src="https://github.com/user-attachments/assets/e624eeb6-1122-43ba-befe-58416a965929" />
-
 
 
 🗂️ All screenshots are stored in the /screenshots/ folder in your project root.
