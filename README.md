@@ -76,16 +76,16 @@ flutter pub run flutter_launcher_icons
 Below are the screenshots showing different parts of the app 👇
 
 ### 🌐 Login Screen
-![Login Screen](https://github.com/vishal-singh-01/mytravaly_hotels/blob/main/screenshots/Screenshot_1.png?raw=true)
+<img width="1080" height="2424" alt="Screenshot_1" src="https://github.com/user-attachments/assets/cd7d4ad0-4ded-4677-9569-cb80a037fd7c" />
 
 ### 🏠  Home Page
-![Search Page](https://github.com/vishal-singh-01/mytravaly_hotels/blob/main/screenshots/Screenshot_2.png?raw=true)
+<img width="1080" height="2424" alt="Screenshot_2" src="https://github.com/user-attachments/assets/239df0f9-8e00-4a4a-b37f-623d1063a9a1" />
 
 ### 🔍 Search Page
-![Search Results](https://github.com/vishal-singh-01/mytravaly_hotels/blob/main/screenshots/Screenshot_3.png?raw=true)
+<img width="1080" height="2424" alt="Screenshot_3" src="https://github.com/user-attachments/assets/b4c67e16-42a8-44e8-a36d-9220ec44adeb" />
 
 ### 📋 Search Results
-![Hotel WebView](https://github.com/vishal-singh-01/mytravaly_hotels/blob/main/screenshots/Screenshot_4.png?raw=true)
+<img width="1080" height="2424" alt="Screenshot_4" src="https://github.com/user-attachments/assets/e624eeb6-1122-43ba-befe-58416a965929" />
 
 
 
