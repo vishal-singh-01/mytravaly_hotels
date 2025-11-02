@@ -76,17 +76,17 @@ flutter pub run flutter_launcher_icons
 Below are the screenshots showing different parts of the app 👇
 
 ### 🌐 Login Screen
-![Login Screen](screenshots/Screenshot_1.png)
+![Login Screen](https://github.com/vishal-singh-01/mytravaly_hotels/blob/main/screenshots/Screenshot_1.png?raw=true)
 
+### 🏠  Home Page
+![Search Page](https://github.com/vishal-singh-01/mytravaly_hotels/blob/main/screenshots/Screenshot_2.png?raw=true)
 
-### 🏠 Search Page
-![Search Page](screenshots/Screenshot_2.png)
+### 🔍 Search Page
+![Search Results](https://github.com/vishal-singh-01/mytravaly_hotels/blob/main/screenshots/Screenshot_3.png?raw=true)
 
-### 🔍 Search Results
-![Search Results](screenshots/Screenshot_3.png)
+### 📋 Search Results
+![Hotel WebView](https://github.com/vishal-singh-01/mytravaly_hotels/blob/main/screenshots/Screenshot_4.png?raw=true)
 
-### 📋 Hotel WebView
-![Hotel WebView](screenshots/Screenshot_4.png)
 
 
 🗂️ All screenshots are stored in the /screenshots/ folder in your project root.
